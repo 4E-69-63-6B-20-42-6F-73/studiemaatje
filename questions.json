@@ -1201,56 +1201,6 @@
   },
   {
     "antwoordIndex": 0,
-    "vraag": "Wat is de Cyfrifo 'R Rhan Fwyaf o'r Gwaith?",
-    "antwoorden": [
-      "Leden verplicht zijn om de meerderheid van het werk te verrichten.",
-      "Leden verantwoordelijk zijn voor het maken van een nauwkeurige verantwoording van de meeste werkzaamheden.",
-      "Leden moeten samenwerken om een doel te bereiken.",
-      "Leden moeten frequent samenkomen om de taken te bespreken, plan te maken en te beoordelen of het werk volgens plan verloopt."
-    ]
-  },
-  {
-    "antwoordIndex": 1,
-    "vraag": "Wat is de Cyfrifo 'Rhan Fwyaf o'r Gwaith?",
-    "antwoorden": [
-      "Leden verplicht zijn om de meerderheid van het werk te verrichten.",
-      "Leden verantwoordelijk zijn voor het maken van een nauwkeurige verantwoording van de meeste werkzaamheden.",
-      "Leden moeten samenwerken om een doel te bereiken.",
-      "Leden moeten frequent samenkomen om de taken te bespreken, plan te maken en te beoordelen of het werk volgens plan verloopt."
-    ]
-  },
-  {
-    "antwoordIndex": 2,
-    "vraag": "Wat is Cynghrodau 'n Dod i 'r Llwybrau?",
-    "antwoorden": [
-      "Leden moeten samenwerken om een doel te bereiken.",
-      "Leden verplicht zijn om de meerderheid van het werk te verrichten.",
-      "Leden moeten frequent samenkomen om de taken te bespreken, plan te maken en te beoordelen of het werk volgens plan verloopt.",
-      "Leden verantwoordelijk zijn voor het maken van een nauwkeurige verantwoording van de meeste werkzaamheden."
-    ]
-  },
-  {
-    "antwoordIndex": 3,
-    "vraag": "Wat is de Cyfrifo 'Rhan Fwyaf o'r Gwaith?",
-    "antwoorden": [
-      "Leden verplicht zijn om de meerderheid van het werk te verrichten.",
-      "Leden verantwoordelijk zijn voor het maken van een nauwkeurige verantwoording van de meeste werkzaamheden.",
-      "Leden moeten samenwerken om een doel te bereiken.",
-      "Leden moeten frequent samenkomen om de taken te bespreken, plan te maken en te beoordelen of het werk volgens plan verloopt."
-    ]
-  },
-  {
-    "antwoordIndex": 1,
-    "vraag": "Wat is de Ystod yr Amser?",
-    "antwoorden": [
-      "Leden moeten samenwerken om een doel te bereiken.",
-      "Leden moeten frequent samenkomen om de taken te bespreken, plan te maken en te beoordelen of het werk volgens plan verloopt.",
-      "Leden verplicht zijn om de meerderheid van het werk te verrichten.",
-      "Leden verantwoordelijk zijn voor het maken van een nauwkeurige verantwoording van de meeste werkzaamheden."
-    ]
-  },
-  {
-    "antwoordIndex": 0,
     "vraag": "Wat is de functie van dNTP 's?",
     "antwoorden": [
       "De nucleotiden die worden toegevoegd om ingebouwd te worden.",
