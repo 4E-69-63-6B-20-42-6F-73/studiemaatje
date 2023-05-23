@@ -1,0 +1,1272 @@
+[
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is PCR?",
+    "antwoorden": [
+      "Een techniek waarmee je stukken DNA kunt vermeerderen",
+      "Een techniek om DNA-fragmenten te scheiden op basis van hun grootte",
+      "Een techniek waarmee je primers kunt ontwerpen",
+      "Een techniek waarmee je kleurstoffen kunt kiezen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is DNA replicatie?",
+    "antwoorden": [
+      "Het proces waarbij een enkelstrengs DNA wordt gerepliceerd tot een dubbelstrengs DNA",
+      "Het proces waarbij een dubbelstrengs DNA wordt gerepliceerd tot een enkelstrengs DNA",
+      "Het proces waarbij een enkelstrengs DNA wordt gerepliceerd tot meerdere dubbelstrengs DNA's",
+      "Het proces waarbij een dubbelstrengs DNA wordt gerepliceerd tot meerdere enkelstrengs DNA's"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Wat is een hitteblok apparaat?",
+    "antwoorden": [
+      "Een apparaat dat gebruikt wordt om de temperatuur van een reactie te regelen",
+      "Een apparaat dat gebruikt wordt om DNA-fragmenten te scheiden",
+      "Een apparaat dat gebruikt wordt om primers te ontwerpen",
+      "Een apparaat dat gebruikt wordt om kleurstoffen te kiezen"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Waarvoor worden appjes gebruikt?",
+    "antwoorden": [
+      "Om kleurstoffen te kiezen",
+      "Om DNA-fragmenten te scheiden",
+      "Om reactiemixtures samen te stellen",
+      "Om primers te ontwerpen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is een equimolaire mix?",
+    "antwoorden": [
+      "Een mix van A'tjes, C'tjes, G'tjes en T'tjes in dezelfde concentratie",
+      "Een mix van A'tjes, C'tjes, G'tjes en T'tjes in verschillende concentraties",
+      "Een mix van A'tjes, C'tjes, G'tjes en T'tjes met ethidium bromide",
+      "Een mix van A'tjes, C'tjes, G'tjes en T'tjes met CyberSafe"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waarvoor wordt een ladder gebruikt?",
+    "antwoorden": [
+      "Om de grootte van een DNA-fragment te bepalen",
+      "Om de volgorde van een DNA-sequentie te bepalen",
+      "Om een stukje DNA te amplificeren",
+      "Om primers te ontwerpen"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Waarvoor wordt ethidium bromide gebruikt?",
+    "antwoorden": [
+      "Om primers te ontwerpen",
+      "Om DNA zichtbaar te maken",
+      "Om kleurstoffen te kiezen",
+      "Om DNA-fragmenten te scheiden"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Wat is het doel van primer design?",
+    "antwoorden": [
+      "Om primers te ontwerpen",
+      "Om DNA-fragmenten te scheiden",
+      "Om een specifiek stukje DNA te kunnen amplificeren",
+      "Om kleurstoffen te kiezen"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Waarvoor staan de termen vijf-accent en drie-accent?",
+    "antwoorden": [
+      "De twee einden van een streng DNA",
+      "De twee einden van een dubbelstrengs DNA",
+      "De twee einden van een enkelstrengs DNA",
+      "De twee einden van een stukje DNA"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is een forward primer?",
+    "antwoorden": [
+      "De primer die bindt aan de vrije drie-accent kant",
+      "De primer die bindt aan de vrije vijf-accent kant",
+      "De primer die bindt aan de vrije vier-accent kant",
+      "De primer die bindt aan de vrije twee-accent kant"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is een primer?",
+    "antwoorden": [
+      "Een kort stukje DNA dat gebruikt wordt als een soort startpunt voor de polymerase om DNA te kopi\u00c3\u00abren",
+      "Een kort stukje DNA dat gebruikt wordt als een soort eindpunt voor de polymerase om DNA te kopi\u00c3\u00abren",
+      "Een kort stukje DNA dat gebruikt wordt als een soort intermediair voor de polymerase om DNA te kopi\u00c3\u00abren",
+      "Een kort stukje DNA dat gebruikt wordt als een soort buffer voor de polymerase om DNA te kopi\u00c3\u00abren"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Welke eisen moeten er aan primers voldaan zijn om een stabiele binding te krijgen?",
+    "antwoorden": [
+      "Een Tm van 55-65 graden en een GC-content van 60%",
+      "Een Tm van 45-50 graden en een GC-content van 50%",
+      "Een Tm van 65-70 graden en een GC-content van 35%",
+      "Een Tm van 45-50 graden en een GC-content van 35%"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Welke basen moet de 3'-accentkant van de primer bevatten om een stabiele binding te krijgen?",
+    "antwoorden": ["Een G of C", "Een A of T", "Een A of G", "Een G of T"]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Hoe wordt de smeltemperatuur berekend?",
+    "antwoorden": [
+      "2 x (aantal a's en t's) + 4 x (aantal g's en c's)",
+      "4 x (aantal a's en t's) + 2 x (aantal g's en c's)",
+      "2 x (aantal g's en c's) + 4 x (aantal a's en t's)",
+      "4 x (aantal g's en c's) + 2 x (aantal a's en t's)"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Wat is het doel van secundaire structuren?",
+    "antwoorden": [
+      "Het verhogen van de smeltemperatuur",
+      "Het verlagen van de smeltemperatuur",
+      "Het voorkomen van een goed resultaat",
+      "Het verbeteren van het resultaat"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Wat is de beste manier om stekende structuren te voorkomen?",
+    "antwoorden": [
+      "De Tm verlagen",
+      "De Tm verhogen",
+      "De ori\u00c3\u00abntatie op de streng controleren",
+      "De GC-content verhogen"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Hoe wordt de GC-content berekend?",
+    "antwoorden": [
+      "Door het aantal g's en c's te vermenigvuldigen met het totale aantal basen in de primer",
+      "Door het aantal g's en c's te delen door het totale aantal basen in de primer",
+      "Door het aantal a's en t's te delen door het totale aantal basen in de primer",
+      "Door het aantal a's en t's te vermenigvuldigen met het totale aantal basen in de primer"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Waar worden secundaire structuren door veroorzaakt?",
+    "antwoorden": [
+      "Door een te lage smeltemperatuur",
+      "Door een te hoge smeltemperatuur",
+      "Door een te lage Tm",
+      "Door zelfbinding of door binding van twee primers aan elkaar"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Welke van de volgende enzymen knippen DNA op specifieke sites?",
+    "antwoorden": [
+      "Restrictie-enzymen",
+      "Ligazen",
+      "Metillatie",
+      "Topoisomerazen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is het naamgevingssysteem voor restrictie-enzymen?",
+    "antwoorden": [
+      "De enzymen worden genoemd naar de bacterie waarin ze ontdekt zijn, met een afkorting gevolgd door 1 of 2 letters om de categorie en het type aan te duiden",
+      "De enzymen worden genoemd naar hun functie, met een afkorting gevolgd door 1 of 2 letters om het type aan te duiden",
+      "De enzymen worden genoemd naar de herkenningssite, met een afkorting gevolgd door 1 of 2 letters om het type aan te duiden",
+      "De enzymen worden genoemd naar de knipsite, met een afkorting gevolgd door 1 of 2 letters om het type aan te duiden"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Welke einden ontstaat na het knippen met een restrictie enzym?",
+    "antwoorden": ["Blunt ends", "Sticky ends", "Beide", "Geen"]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is een isoschizoomer?",
+    "antwoorden": [
+      "Een enzym dat dezelfde herkennings- en knipsight heeft als een ander enzym",
+      "Een enzym dat een andere herkennings- en knipsight heeft als een ander enzym",
+      "Een enzym dat hetzelfde herkennings- en knipsight heeft maar de sticky ends zijn anders",
+      "Een enzym dat geen herkennings- en knipsight heeft"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is een metilatie?",
+    "antwoorden": [
+      "Belangrijk bij bepaalde restrictie-enzymen. Als een stuk DNA gemetilieerd is, kan het enzym de site herkennen en knippen",
+      "Belangrijk bij bepaalde restrictie-enzymen. Als een stuk DNA gemetilieerd is, kan het enzym de site niet herkennen en knippen",
+      "Belangrijk bij bepaalde ligazen. Als een stuk DNA gemetilieerd is, kan het enzym de site herkennen en knippen",
+      "Belangrijk bij bepaalde topoisomerazen. Als een stuk DNA gemetilieerd is, kan het enzym de site herkennen en knippen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waar wordt magnesium 2+ voor gebruikt?",
+    "antwoorden": [
+      "Om DNA te knippen door restrictie-enzymen",
+      "Om DNA te plakken door ligazen",
+      "Om DNA te metilieren",
+      "Om topoisomerazen te activeren"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Wat is een neoschizoomer?",
+    "antwoorden": [
+      "Een enzym dat dezelfde herkennings- en knipsight heeft als een ander enzym",
+      "Een enzym dat een andere herkennings- en knipsight heeft maar de sticky ends zijn hetzelfde",
+      "Een enzym dat dezelfde herkenningssight heeft maar de knip verschilt waardoor de overhangs ook verschillen",
+      "Een enzym dat geen herkennings- en knipsight heeft"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Waarom is pipeteren belangrijk bij het knippen van DNA?",
+    "antwoorden": [
+      "Om de juiste hoeveelheden ingredi\u00c3\u00abnten toe te voegen aan het DNA",
+      "Om de juiste hoeveelheden restrictie-enzymen toe te voegen aan het DNA",
+      "Om de juiste hoeveelheden ingredi\u00c3\u00abnten toe te voegen aan de reactie",
+      "Om de juiste hoeveelheden ligazen toe te voegen aan de reactie"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is miliku?",
+    "antwoorden": [
+      "Een sterk verdunde oplossing met magnesium 2+",
+      "Een sterk verdunde oplossing met ligazen",
+      "Een sterk verdunde oplossing met restrictie-enzymen",
+      "Zuiver water dat is gefilterd met een speciale machine"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat wordt gebruikt om enzymen mee te mengen?",
+    "antwoorden": ["Miliku-water", "Incuberen", "Plasmide", "Plasmiden"]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is een plasmide?",
+    "antwoorden": [
+      "Een klein stukje DNA",
+      "Een gen dat resistentie tegen antibioticum verkrijgt",
+      "Een cirkelvormige DNA-molecule",
+      "Een genetisch materiaal"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is het doel van restrictie-enzymen?",
+    "antwoorden": [
+      "DNA knippen en fragmenteren",
+      "DNA-moleculen vervoeren",
+      "DNA knippen en plakken",
+      "DNA-moleculen verlengen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waar wordt DNA-ligase voor gebruikt?",
+    "antwoorden": [
+      "Knip- en plakreacties uitvoeren",
+      "DNA knippen en fragmenteren",
+      "DNA knippen en plakken",
+      "DNA-moleculen vervoeren"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is het doel van homopolymeren teling?",
+    "antwoorden": [
+      "Blunt ends van DNA-moleculen omzetten in sticky ends",
+      "DNA knippen en fragmenteren",
+      "DNA knippen en plakken",
+      "DNA-moleculen vervoeren"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waarvoor worden terminaal transferasen gebruikt?",
+    "antwoorden": [
+      "Sticky ends van DNA-moleculen verlengen",
+      "Blunt ends van DNA-moleculen omzetten in sticky ends",
+      "DNA knippen en plakken",
+      "DNA-moleculen vervoeren"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waarvoor wordt alkalisch fosfatase gebruikt?",
+    "antwoorden": [
+      "Fosfatengroepen verwijderen van sticky ends",
+      "Blunt ends van DNA-moleculen omzetten in sticky ends",
+      "Sticky ends van DNA-moleculen verlengen",
+      "DNA-moleculen vervoeren"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat doet polynucleotide kinase?",
+    "antwoorden": [
+      "Nucleotiden toevoegen aan de 5'-kant van een DNA-sequentie",
+      "Fosfatengroepen verwijderen van sticky ends",
+      "Blunt ends van DNA-moleculen omzetten in sticky ends",
+      "Sticky ends van DNA-moleculen verlengen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat doet alkalisch fosfatase?",
+    "antwoorden": [
+      "Fosfaat losmaken van DNA",
+      "Nucleotiden toevoegen aan de 5'-kant van een DNA-sequentie",
+      "Fosfatengroepen verwijderen van sticky ends",
+      "Blunt ends van DNA-moleculen omzetten in sticky ends"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Welk enzym wordt veel gebruikt om DNA te maken?",
+    "antwoorden": [
+      "Tak of T4 DNA polymerase",
+      "E. coli DNA-polymerase",
+      "Restrictie-enzymen",
+      "Polynucleotide kinase"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat moet er gebeuren met E. coli DNA-polymerase?",
+    "antwoorden": [
+      "Gemodificeerd worden om de verkeerde activiteit te verwijderen",
+      "Geknipt worden",
+      "Geactiveerd worden",
+      "Geligaseerd worden"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waarom worden korte stukjes enkelstrengs DNA toegevoegd aan de blunten ends?",
+    "antwoorden": [
+      "Om de sticky ends te verlengen",
+      "Om DNA te knippen en fragmenteren",
+      "Om een nieuwe streng te maken",
+      "Om de DNA-moleculen specifieker te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waarom worden korte stukjes enkelstrengs DNA toegevoegd aan de sticky ends?",
+    "antwoorden": [
+      "Om de sticky ends te verlengen",
+      "Om DNA te knippen en fragmenteren",
+      "Om een nieuwe streng te maken",
+      "Om de DNA-moleculen specifieker te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is kloneren?",
+    "antwoorden": [
+      "Het vermenigvuldigen van genetisch materiaal om een stukje genetisch materiaal te onderzoeken",
+      "Het vermenigvuldigen van genetisch materiaal om een stukje genetisch materiaal te maken",
+      "Het vermenigvuldigen van genetisch materiaal om een stukje genetisch materiaal te verplaatsen",
+      "Het vermenigvuldigen van genetisch materiaal om een stukje genetisch materiaal te vervangen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat zijn restrictie-enzymen?",
+    "antwoorden": [
+      "Enzymen die losse enkelstreng stukjes DNA maken die aan elkaar plakken met Sticky Ends",
+      "Enzymen die losse enkelstreng stukjes DNA maken die aan elkaar plakken met Blunt Ends",
+      "Enzymen die losse enkelstreng stukjes DNA maken die aan elkaar plakken met Kinked Ends",
+      "Enzymen die losse enkelstreng stukjes DNA maken die aan elkaar plakken met Pointed Ends"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is Ligase?",
+    "antwoorden": [
+      "Een enzym waarmee stukken DNA aan elkaar gezet kunnen worden",
+      "Een enzym waarmee stukken DNA losgehaald kunnen worden",
+      "Een enzym waarmee stukken DNA verplaatst kunnen worden",
+      "Een enzym waarmee stukken DNA gescheiden kunnen worden"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is PCR?",
+    "antwoorden": [
+      "Polymerase Chain Reaction, een techniek waarmee DNA gekopieerd kan worden",
+      "Polymerase Chain Reaction, een techniek waarmee DNA vermenigvuldigd kan worden",
+      "Polymerase Chain Reaction, een techniek waarmee DNA verplaatst kan worden",
+      "Polymerase Chain Reaction, een techniek waarmee DNA vervangen kan worden"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat zijn plasmiden?",
+    "antwoorden": [
+      "Kleine circulaire DNA-moleculen die normaal gesproken voorkomen in bacteri\u00c3\u00abn",
+      "Kleine circulaire DNA-moleculen die normaal gesproken voorkomen in virussen",
+      "Kleine circulaire DNA-moleculen die normaal gesproken voorkomen in planten",
+      "Kleine circulaire DNA-moleculen die normaal gesproken voorkomen in dieren"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat zijn vectoren?",
+    "antwoorden": [
+      "Soortgelijk aan plasmiden, maar hebben meestal diverse genetische elementen die het klonen en identificeren van DNA gemakkelijker maken",
+      "Soortgelijk aan plasmiden, maar hebben meestal diverse genetische elementen die het verplaatsen en identificeren van DNA gemakkelijker maken",
+      "Soortgelijk aan plasmiden, maar hebben meestal diverse genetische elementen die het kopi\u00c3\u00abren en identificeren van DNA gemakkelijker maken",
+      "Soortgelijk aan plasmiden, maar hebben meestal diverse genetische elementen die het vervangen en identificeren van DNA gemakkelijker maken"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is bacteri\u00c3\u00able resistentie?",
+    "antwoorden": [
+      "Bacteri\u00c3\u00abn ontwikkelen resistentie tegen antibiotica door middel van plasmides",
+      "Bacteri\u00c3\u00abn ontwikkelen resistentie tegen antibiotica door middel van vectoren",
+      "Bacteri\u00c3\u00abn ontwikkelen resistentie tegen antibiotica door middel van DNA",
+      "Bacteri\u00c3\u00abn ontwikkelen resistentie tegen antibiotica door middel van eiwit"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Hoe kan transformatie plaatsvinden?",
+    "antwoorden": [
+      "Door het membraan te pesten, waardoor het open springt en het DNA naar binnen kan",
+      "Door het membraan te knijpen, waardoor het open springt en het DNA naar binnen kan",
+      "Door het membraan te duwen, waardoor het open springt en het DNA naar binnen kan",
+      "Door het membraan te trekken, waardoor het open springt en het DNA naar binnen kan"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is competentie?",
+    "antwoorden": [
+      "De mogelijkheid van een cel om DNA op te nemen",
+      "De mogelijkheid van een cel om DNA te verwijderen",
+      "De mogelijkheid van een cel om DNA te verplaatsen",
+      "De mogelijkheid van een cel om DNA te vervangen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is PCR?",
+    "antwoorden": [
+      "Een moleculaire techniek die wordt gebruikt om kopie\u00c3\u00abn van DNA te maken.",
+      "Een techniek die wordt gebruikt om DNA-sequenties te identificeren en te analyseren.",
+      "Een techniek waarbij kolonies van een plaatje worden aangeprikt en vervolgens wordt er een PCR-test op gedaan.",
+      "Een techniek waarbij twee primers worden gebruikt, een in de insert en een in het plasmide."
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Wat is kolonie-PCR?",
+    "antwoorden": [
+      "Een moleculaire techniek die wordt gebruikt om kopie\u00c3\u00abn van DNA te maken.",
+      "Een techniek waarbij kolonies van een plaatje worden aangeprikt en vervolgens wordt er een PCR-test op gedaan.",
+      "Een techniek die wordt gebruikt om DNA-sequenties te identificeren en te analyseren.",
+      "Een techniek waarbij twee primers worden gebruikt, een in de insert en een in het plasmide."
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is ori\u00c3\u00abntatiespecifieke controle?",
+    "antwoorden": [
+      "Een moleculaire techniek die wordt gebruikt om kopie\u00c3\u00abn van DNA te maken.",
+      "Een techniek waarbij kolonies van een plaatje worden aangeprikt en vervolgens wordt er een PCR-test op gedaan.",
+      "Een techniek die wordt gebruikt om DNA-sequenties te identificeren en te analyseren.",
+      "Een techniek waarbij twee primers worden gebruikt, een in de insert en een in het plasmide."
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is elutie?",
+    "antwoorden": [
+      "Het proces waarbij DNA van een kolom wordt gewonnen met behulp van een oplossing met suiker.",
+      "Een moleculaire techniek die wordt gebruikt om kopie\u00c3\u00abn van DNA te maken.",
+      "Een techniek waarbij kolonies van een plaatje worden aangeprikt en vervolgens wordt er een PCR-test op gedaan.",
+      "Een techniek waarbij twee primers worden gebruikt, een in de insert en een in het plasmide."
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is sequencing?",
+    "antwoorden": [
+      "Het proces waarbij de volgorde van nucleotiden in een DNA- of RNA-molecuul wordt bepaald.",
+      "Een moleculaire techniek die wordt gebruikt om kopie\u00c3\u00abn van DNA te maken.",
+      "Een techniek waarbij kolonies van een plaatje worden aangeprikt en vervolgens wordt er een PCR-test op gedaan.",
+      "Een techniek waarbij twee primers worden gebruikt, een in de insert en een in het plasmide."
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Waar wordt PCR voor gebruikt?",
+    "antwoorden": [
+      "Het proces waarbij DNA van een kolom wordt gewonnen met behulp van een oplossing met suiker.",
+      "Een techniek waarbij twee primers worden gebruikt, een in de insert en een in het plasmide.",
+      "Een techniek die wordt gebruikt om DNA-sequenties te identificeren en te analyseren.",
+      "Een moleculaire techniek die wordt gebruikt om kopie\u00c3\u00abn van DNA te maken."
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is Zangersequencing?",
+    "antwoorden": [
+      "Een techniek om de sequentie van een DNA-molecuul te bepalen",
+      "Een techniek om fragmenten met verschillende lengtes te maken",
+      "Een techniek om de kwaliteit van de sequentie te beoordelen",
+      "Een techniek om de kleur van de basen in een chromatogram te bepalen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waarvoor wordt FRET-score gebruikt?",
+    "antwoorden": [
+      "Om de betrouwbaarheid van de sequentie te bepalen",
+      "Om de sequentie van een DNA-fragment weer te geven",
+      "Om de kleur van de basen in een chromatogram te bepalen",
+      "Om de achtergrondruis te beoordelen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is template DNA?",
+    "antwoorden": [
+      "Het DNA-fragment dat nodig is om een sequencing reactie te starten",
+      "Het resultaat van een PCR-reactie",
+      "Korte stukjes DNA die worden gebruikt om de sequencing reactie te starten",
+      "Een techniek om fragmenten met verschillende lengtes te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is PCR-product?",
+    "antwoorden": [
+      "Het resultaat van een PCR-reactie",
+      "Het DNA-fragment dat nodig is om een sequencing reactie te starten",
+      "Korte stukjes DNA die worden gebruikt om de sequencing reactie te starten",
+      "Een techniek om fragmenten met verschillende lengtes te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Wat is capillaire gel?",
+    "antwoorden": [
+      "Een techniek om de sequentie van een DNA-molecuul te bepalen",
+      "Een buisje met een gel erin waarin het sample wordt ge\u00c3\u00afnjecteerd",
+      "Een techniek om de kwaliteit van de sequentie te beoordelen",
+      "Een techniek om de kleur van de basen in een chromatogram te bepalen"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is achtergrondruis?",
+    "antwoorden": [
+      "Het resultaat van een PCR-reactie",
+      "Korte stukjes DNA die worden gebruikt om de sequencing reactie te starten",
+      "Een techniek om fragmenten met verschillende lengtes te maken",
+      "Kleine pieken die aanwezig zijn in een chromatogram maar die niet afkomstig zijn van de gesequenceerde basen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is sequencing?",
+    "antwoorden": [
+      "Een proces waarbij de nucleotidevolgorde van een gegeven DNA-fragment wordt bepaald",
+      "Een techniek om de kwaliteit van de sequentie te beoordelen",
+      "Een techniek om de kleur van de basen in een chromatogram te bepalen",
+      "Een techniek om fragmenten met verschillende lengtes te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is Primer?",
+    "antwoorden": [
+      "Korte stukjes DNA die worden gebruikt om de polymerase reactie te starten",
+      "Een techniek om de kwaliteit van de sequentie te beoordelen",
+      "Een techniek om de kleur van de basen in een chromatogram te bepalen",
+      "Een techniek om fragmenten met verschillende lengtes te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is PCR?",
+    "antwoorden": [
+      "Een techniek waarmee een klein stukje DNA-sequentie kan worden vermenigvuldigd",
+      "Een techniek om de kwaliteit van de sequentie te beoordelen",
+      "Een techniek om de kleur van de basen in een chromatogram te bepalen",
+      "Een techniek om fragmenten met verschillende lengtes te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Wat is een chromatogram?",
+    "antwoorden": [
+      "Het resultaat van een PCR-reactie",
+      "Een grafiek die gebruikt wordt om de sequentie van een stuk DNA te bepalen",
+      "Een techniek om fragmenten met verschillende lengtes te maken",
+      "Kleine pieken die aanwezig zijn in een chromatogram maar die niet afkomstig zijn van de gesequenceerde basen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is Sanger sequencing?",
+    "antwoorden": [
+      "Een eerste generatie sequentietechniek die wordt gebruikt om de sequentie van een DNA-fragment te bepalen",
+      "Een techniek om de kwaliteit van de sequentie te beoordelen",
+      "Een techniek om de kleur van de basen in een chromatogram te bepalen",
+      "Een techniek om fragmenten met verschillende lengtes te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is PCR?",
+    "antwoorden": [
+      "Polymerase Chain Reaction",
+      "Bridge Amplificatie",
+      "Sequencing by Synthesis",
+      "Cluster Generation"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is cluster generation?",
+    "antwoorden": [
+      "Een techniek gebruikt om aan DNA-sequenties toe te voegen",
+      "Een techniek gebruikt om DNA-sequenties te versterken",
+      "Een proces waarbij elk fragmentmolecuul isothermisch wordt geamplificeerd",
+      "Een techniek gebruikt om DNA-fragmenten aan elkaar te binden"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is sequencing by synthesis?",
+    "antwoorden": [
+      "Een techniek waarbij nucleotiden worden toegevoegd met een fluorescent label en een terminator",
+      "Een techniek gebruikt om aan DNA-sequenties toe te voegen",
+      "Een techniek gebruikt om DNA-sequenties te versterken",
+      "Een proces waarbij elk fragmentmolecuul isothermisch wordt geamplificeerd"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is bridge amplificatie?",
+    "antwoorden": [
+      "Een techniek gebruikt om aan DNA-sequenties toe te voegen",
+      "Een techniek gebruikt om DNA-sequenties te versterken",
+      "Een proces waarbij elk fragmentmolecuul isothermisch wordt geamplificeerd",
+      "Een techniek gebruikt in de Next Generation Sequencing waarbij de vooruitgebreide DNA-sequenties aan elkaar gebonden worden"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waar wordt PCR voor gebruikt?",
+    "antwoorden": [
+      "Om het signaal te versterken en om stukjes DNA te vermenigvuldigen",
+      "Om DNA-fragmenten aan elkaar te binden",
+      "Om miljoenen clusters tegelijkertijd ge\u00c3\u00afdentificeerd",
+      "Om hele genomen in \u00c3\u0192\u00c2\u00a9\u00c3\u0192\u00c2\u00a9n keer te sequenceren"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Wat is adaptoren?",
+    "antwoorden": [
+      "Een techniek gebruikt om DNA-sequenties te versterken",
+      "Kleine stukjes DNA die aan de einden van fragmenten worden toegevoegd om het mogelijk te maken dat de fragmenten zich aan elkaar binden",
+      "Een techniek gebruikt in de Next Generation Sequencing waarbij de vooruitgebreide DNA-sequenties aan elkaar gebonden worden",
+      "Een techniek gebruikt om aan DNA-sequenties toe te voegen"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Wat is paired-end sequencing?",
+    "antwoorden": [
+      "Een techniek gebruikt om aan DNA-sequenties toe te voegen",
+      "Een techniek gebruikt in de Next Generation Sequencing waarbij de sequentie vanuit beide kanten wordt gelezen",
+      "Een techniek gebruikt om DNA-sequenties te versterken",
+      "Een proces waarbij elk fragmentmolecuul isothermisch wordt geamplificeerd"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Wat is amplificatie?",
+    "antwoorden": [
+      "Een techniek gebruikt in de Next Generation Sequencing waarbij de vooruitgebreide DNA-sequenties aan elkaar gebonden worden",
+      "Een techniek gebruikt om aan DNA-sequenties toe te voegen",
+      "Een techniek gebruikt om het aantal DNA-kopie\u00c3\u00abn te vergroten door middel van polymerasekettingreactie (PCR)",
+      "Een techniek gebruikt om DNA-sequenties te versterken"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Waar wordt single-molecule sequencing voor gebruikt?",
+    "antwoorden": [
+      "Om het signaal te versterken en om stukjes DNA te vermenigvuldigen",
+      "Om miljoenen clusters tegelijkertijd ge\u00c3\u00afdentificeerd",
+      "Om DNA-fragmenten aan elkaar te binden",
+      "Om hele genomen in \u00c3\u0192\u00c2\u00a9\u00c3\u0192\u00c2\u00a9n keer te sequenceren"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waarvoor worden adaptoren gebruikt?",
+    "antwoorden": [
+      "Om het mogelijk te maken dat de fragmenten zich aan elkaar binden",
+      "Om miljoenen clusters tegelijkertijd ge\u00c3\u00afdentificeerd",
+      "Om hele genomen in \u00c3\u0192\u00c2\u00a9\u00c3\u0192\u00c2\u00a9n keer te sequenceren",
+      "Om het signaal te versterken en om stukjes DNA te vermenigvuldigen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is RNA Interference (RNAi)?",
+    "antwoorden": [
+      "Een proces waarbij de expressie van een gen wordt uitgezet door het wegvangen van het messenger RNA dat wordt aangemaakt als het gen wordt afgelezen",
+      "Een genetische techniek die gebruikt wordt om specifieke mutaties in een gen te verwijderen of te veranderen",
+      "Een proces waarbij chromosomen worden gecombineerd om nieuwe variaties te cre\u00c3\u00abren",
+      "Een techniek waarmee gen-expressie kan worden geblokkeerd of uitgeschakeld"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is CRISPR-Cas?",
+    "antwoorden": [
+      "Een proces waarbij de expressie van een gen wordt uitgezet door het wegvangen van het messenger RNA dat wordt aangemaakt als het gen wordt afgelezen",
+      "Een genetische techniek die gebruikt wordt om specifieke mutaties in een gen te verwijderen of te veranderen",
+      "Een proces waarbij chromosomen worden gecombineerd om nieuwe variaties te cre\u00c3\u00abren",
+      "Een techniek waarmee gen-expressie kan worden geblokkeerd of uitgeschakeld"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Wat is homologenrecombinatie?",
+    "antwoorden": [
+      "Een proces waarbij de expressie van een gen wordt uitgezet door het wegvangen van het messenger RNA dat wordt aangemaakt als het gen wordt afgelezen",
+      "Een genetische techniek die gebruikt wordt om specifieke mutaties in een gen te verwijderen of te veranderen",
+      "Een proces waarbij chromosomen worden gecombineerd om nieuwe variaties te cre\u00c3\u00abren",
+      "Een techniek waarmee gen-expressie kan worden geblokkeerd of uitgeschakeld"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Wat is CRISPR-Cas?",
+    "antwoorden": [
+      "Een proces waarbij de expressie van een gen wordt uitgezet door het wegvangen van het messenger RNA dat wordt aangemaakt als het gen wordt afgelezen",
+      "Een genetische techniek die gebruikt wordt om specifieke mutaties in een gen te verwijderen of te veranderen",
+      "Een proces waarbij chromosomen worden gecombineerd om nieuwe variaties te cre\u00c3\u00abren",
+      "Een techniek waarmee gen-expressie kan worden geblokkeerd of uitgeschakeld"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is RNA interference?",
+    "antwoorden": [
+      "Een proces waarbij de expressie van een gen wordt uitgezet door het wegvangen van het messenger RNA dat wordt aangemaakt als het gen wordt afgelezen",
+      "Een genetische techniek die gebruikt wordt om specifieke mutaties in een gen te verwijderen of te veranderen",
+      "Een proces waarbij chromosomen worden gecombineerd om nieuwe variaties te cre\u00c3\u00abren",
+      "Een techniek waarmee gen-expressie kan worden geblokkeerd of uitgeschakeld"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat zijn vectoren?",
+    "antwoorden": [
+      "Plasmiden die worden gebruikt om RNA-interference toe te passen",
+      "Virussen die worden gebruikt als vectoren om RNA-interference toe te passen",
+      "Een techniek waarmee een gen kan worden uitgeschakeld door middel van een enkelstrengs RNA-molecuul",
+      "Een manier van het vervoeren van genetische informatie tussen organismen"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat zijn virale vectoren?",
+    "antwoorden": [
+      "Plasmiden die worden gebruikt om RNA-interference toe te passen",
+      "Virussen die worden gebruikt als vectoren om RNA-interference toe te passen",
+      "Een techniek waarmee een gen kan worden uitgeschakeld door middel van een enkelstrengs RNA-molecuul",
+      "Een manier van het vervoeren van genetische informatie tussen organismen"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Wat is RNAe?",
+    "antwoorden": [
+      "Een proces waarbij de expressie van een gen wordt uitgezet door het wegvangen van het messenger RNA dat wordt aangemaakt als het gen wordt afgelezen",
+      "Een genetische techniek die gebruikt wordt om specifieke mutaties in een gen te verwijderen of te veranderen",
+      "Een techniek waarmee een gen kan worden uitgeschakeld door middel van een enkelstrengs RNA-molecuul",
+      "Een manier van het vervoeren van genetische informatie tussen organismen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is PAM?",
+    "antwoorden": [
+      "Protospacer Adjacent Motif",
+      "CRISPR-RNA",
+      "Cas9",
+      "Non-homologe end joining"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Wat is Cas9?",
+    "antwoorden": [
+      "CRISPR-RNA",
+      "Endonuclease",
+      "Cas12",
+      "Homologe recombinatie"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Waar wordt Non-homologe end joining voor gebruikt?",
+    "antwoorden": [
+      "Om het virus DNA te herkennen",
+      "Om genen te editen",
+      "Om RNA interference te blokkeren",
+      "Om deleties en inserties te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Waar wordt Cas12 voor gebruikt?",
+    "antwoorden": [
+      "Om het virus DNA te herkennen",
+      "Om genen te editen",
+      "Om specifieke nucleotiden te knippen",
+      "Om homologe recombinatie te starten"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Waar wordt CRISPR-RNA voor gebruikt?",
+    "antwoorden": [
+      "Om het virus DNA te herkennen",
+      "Om sequenties die aan de protospacer zijn gekoppeld te veranderen",
+      "Om deleties en inserties te maken",
+      "Om een artificieel CRISPR-Cas systeem te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is een toepassing van homologe recombinatie?",
+    "antwoorden": [
+      "Het knippen van een gen",
+      "Het blokkeren van het aflezen van eiwitcoderende genen",
+      "Het toevoegen van korte RNA-moleculen",
+      "Het toevoegen van specifieke nucleotiden, stukken van een gen of een hele gen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waar wordt RNA interference voor gebruikt?",
+    "antwoorden": [
+      "Om de expressie of expressie van genen te reguleren of te veranderen",
+      "Om het virus DNA te herkennen",
+      "Om genen te editen",
+      "Om een artificieel CRISPR-Cas systeem te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Waar wordt Synthetische variant voor gebruikt?",
+    "antwoorden": [
+      "Om het virus DNA te herkennen",
+      "Om genen te editen",
+      "Om sequenties die aan de protospacer zijn gekoppeld te veranderen",
+      "Om een artificieel CRISPR-Cas systeem te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is CRISPR-Cas?",
+    "antwoorden": [
+      "Een grote groep genetische technologie\u00c3\u0192\u00c2\u00abn",
+      "Een onderdeel van het mechanisme",
+      "Een artificieel CRISPR-Cas systeem",
+      "Een stukje DNA"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waar wordt homologe recombinatie voor gebruikt?",
+    "antwoorden": [
+      "Om specifieke nucleotiden, stukken van een gen of een hele gen toe te voegen",
+      "Om het virus DNA te herkennen",
+      "Om genen te editen",
+      "Om een artificieel CRISPR-Cas systeem te maken"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Waar wordt een artificieel CRISPR-Cas systeem voor gebruikt?",
+    "antwoorden": [
+      "Om het virus DNA te herkennen",
+      "Om genen te editen",
+      "Om RNA interference te blokkeren",
+      "Om sequenties die aan de protospacer zijn gekoppeld te veranderen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is proteomics?",
+    "antwoorden": [
+      "De studie van het proteoom",
+      "De studie van genen",
+      "De studie van messenger-RNA-niveaus",
+      "De studie van voedingsstoffen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is systeembiologie?",
+    "antwoorden": [
+      "Het bestuderen van biologische systemen",
+      "Het bestuderen van genen",
+      "Het bestuderen van proteomen",
+      "Het bestuderen van voedingsstoffen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is chromatografie?",
+    "antwoorden": [
+      "Een techniek om stoffen te scheiden op basis van hun binding aan een vaste stof",
+      "Een techniek om stoffen te scheiden op basis van hun massa",
+      "Een techniek om stoffen te verzamelen met een elektrisch veld",
+      "Een techniek om stoffen te verzamelen met lage druk"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is LC-MS-analyse?",
+    "antwoorden": [
+      "Een hyphenated techniek om eiwitten te analyseren",
+      "Een hyphenated techniek om genen te analyseren",
+      "Een hyphenated techniek om proteomen te analyseren",
+      "Een hyphenated techniek om voedingsstoffen te analyseren"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat zijn post-translationele modificaties?",
+    "antwoorden": [
+      "Aanpassingen aan eiwitten die plaatsvinden na de vertaling van mRNA naar eiwit",
+      "Aanpassingen aan genen die plaatsvinden na de vertaling van mRNA naar eiwit",
+      "Aanpassingen aan proteomen die plaatsvinden na de vertaling van mRNA naar eiwit",
+      "Aanpassingen aan voedingsstoffen die plaatsvinden na de vertaling van mRNA naar eiwit"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is shotgun proteomics?",
+    "antwoorden": [
+      "Een methode om meer dan duizend eiwitten te detecteren",
+      "Een methode om meer dan duizend genen te detecteren",
+      "Een methode om meer dan duizend proteomen te detecteren",
+      "Een methode om meer dan duizend voedingsstoffen te detecteren"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is massaspectrometrie?",
+    "antwoorden": [
+      "Een techniek om de chemische samenstelling van een stof te analyseren",
+      "Een techniek om genen te analyseren",
+      "Een techniek om proteomen te analyseren",
+      "Een techniek om voedingsstoffen te analyseren"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat zijn chromatogrammen?",
+    "antwoorden": [
+      "Grafieken die worden gebruikt om vloeistofcomponenten te onderscheiden die door een chromatografiekolom worden gescheiden",
+      "Grafieken die worden gebruikt om genen te onderscheiden die door een chromatografiekolom worden gescheiden",
+      "Grafieken die worden gebruikt om proteomen te onderscheiden die door een chromatografiekolom worden gescheiden",
+      "Grafieken die worden gebruikt om voedingsstoffen te onderscheiden die door een chromatografiekolom worden gescheiden"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat zijn elektrische velden?",
+    "antwoorden": [
+      "Krachtvelden die worden gegenereerd door het geleiden van elektrische lading",
+      "Krachtvelden die worden gegenereerd door het geleiden van genen",
+      "Krachtvelden die worden gegenereerd door het geleiden van proteomen",
+      "Krachtvelden die worden gegenereerd door het geleiden van voedingsstoffen"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is een quadrupool?",
+    "antwoorden": [
+      "Een apparaat dat wordt gebruikt om massaspectrometrie te doen",
+      "Een apparaat dat wordt gebruikt om genen te analyseren",
+      "Een apparaat dat wordt gebruikt om proteomen te analyseren",
+      "Een apparaat dat wordt gebruikt om voedingsstoffen te analyseren"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat zijn trappen?",
+    "antwoorden": [
+      "Massaspectrometercomponenten die ionen kunnen opsluiten en verzamelen in een elektrisch veld",
+      "Massaspectrometercomponenten die genen kunnen opsluiten en verzamelen in een elektrisch veld",
+      "Massaspectrometercomponenten die proteomen kunnen opsluiten en verzamelen in een elektrisch veld",
+      "Massaspectrometercomponenten die voedingsstoffen kunnen opsluiten en verzamelen in een elektrisch veld"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is Cellysis?",
+    "antwoorden": [
+      "Het kapotmaken van de cel",
+      "Het uit elkaar halen van het dubbelstrengige DNA",
+      "Het verlengen van het enkelstrengige DNA met behulp van een polymerase",
+      "Het vermenigvuldigen van een DNA-sequentie"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Wat is Denaturatie?",
+    "antwoorden": [
+      "Het uit elkaar halen van het dubbelstrengige DNA onder hoge temperaturen",
+      "Het binden van specifieke primers aan het enkelstrengige DNA met lagere temperaturen",
+      "Het verlengen van het enkelstrengige DNA met behulp van een polymerase",
+      "Het vermenigvuldigen van een DNA-sequentie"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Welk bedrijf verkoopt kits en producten voor het scheiden van DNA?",
+    "antwoorden": [
+      "Kaijetjen",
+      "Polymerase Chain Reaction",
+      "Quantitative Polymerase Chain Reaction",
+      "Cellysis"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Welke techniek wordt gebruikt om een specifiek stukje DNA te vermenigvuldigen?",
+    "antwoorden": [
+      "Denaturation",
+      "Hybridisatie",
+      "Inline",
+      "Polymerase Chain Reaction"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Wat is Annealing?",
+    "antwoorden": [
+      "Het verlengen van het enkelstrengige DNA met behulp van een polymerase",
+      "Het binden van twee single-streng DNA-moleculen met elkaar in contact",
+      "Het binden van specifieke primers aan het enkelstrengige DNA met lagere temperaturen",
+      "Het vermenigvuldigen van een DNA-sequentie"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Waarvoor wordt Protease K gebruikt?",
+    "antwoorden": [
+      "Het splitsen van het dubbelstreng DNA in single-strengen",
+      "Het vermenigvuldigen van een DNA-sequentie",
+      "Het verlengen van het enkelstrengige DNA met behulp van een polymerase",
+      "Het afbreken van enzymen en het inactief maken van de nucleaties"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Welk proces wordt gebruikt om het DNA te scheiden van de rest van het celmateriaal?",
+    "antwoorden": ["Extractie", "Homogeniseren", "PCR", "Agarosegel"]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is Replicatie?",
+    "antwoorden": [
+      "Het openbreken van dubbelstreng DNA door middel van een hoge temperatuur",
+      "Het binden van specifieke primers aan het enkelstrengige DNA met lagere temperaturen",
+      "Het verlengen van het enkelstrengige DNA met behulp van een polymerase",
+      "Het proces waarbij DNA gekopieerd wordt"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is DNA isolatie?",
+    "antwoorden": [
+      "De isolatie van DNA en RNA uit verschillende biologische materialen",
+      "Het kapotmaken van de cel",
+      "Het verlengen van het enkelstrengige DNA met behulp van een polymerase",
+      "Het vermenigvuldigen van een DNA-sequentie"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Waarvoor wordt Agarosegel gebruikt?",
+    "antwoorden": [
+      "Voor elektroforese om DNAbanden te detecteren",
+      "Voor het kapotmaken van de cel",
+      "Voor het verlengen van het enkelstrengige DNA met behulp van een polymerase",
+      "Voor het vermenigvuldigen van een DNA-sequentie"
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Wat is Extensie?",
+    "antwoorden": [
+      "Het splitsen van het dubbelstreng DNA in single-strengen",
+      "Het vermenigvuldigen van een DNA-sequentie",
+      "Het verlengen van het enkelstrengige DNA met behulp van een polymerase",
+      "Het inactief maken van de nucleaties"
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Waarvoor wordt Homogeniseren gebruikt?",
+    "antwoorden": [
+      "Voor het vermenigvuldigen van een DNA-sequentie",
+      "Om de celstructuur kapot te maken",
+      "Om DNA te isoleren",
+      "Om DNA-banden te detecteren"
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Waarvoor wordt QPCR gebruikt?",
+    "antwoorden": [
+      "Om DNA te isoleren",
+      "Om de celstructuur kapot te maken",
+      "Om DNA-banden te detecteren",
+      "Om real-time te monitoren hoeveel kopie\u00c3\u0192\u00c2\u00abn van een doel DNA-sequentie er aanwezig zijn"
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is Polymerase Chain Reaction (PCR)?",
+    "antwoorden": [
+      "Een hitteblok waarmee het protocol voor PCR kan worden geprogrammeerd.",
+      "De stappen die nodig zijn om het DNA in een monster te isoleren voordat PCR kan worden uitgevoerd.",
+      "Het gebruik van PCR om DNA-monsters te vermenigvuldigen.",
+      "Een co-factor die nodig is voor de takpolymerase om te functioneren."
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Wat is isolatie?",
+    "antwoorden": [
+      "Het gebruik van PCR om DNA-monsters te vermenigvuldigen.",
+      "Een hitteblok waarmee het protocol voor PCR kan worden geprogrammeerd.",
+      "De stappen die nodig zijn om het DNA in een monster te isoleren voordat PCR kan worden uitgevoerd.",
+      "Een co-factor die nodig is voor de takpolymerase om te functioneren."
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is de functie van Magnesiumchloride?",
+    "antwoorden": [
+      "Het gebruik van PCR om DNA-monsters te vermenigvuldigen.",
+      "Een hitteblok waarmee het protocol voor PCR kan worden geprogrammeerd.",
+      "De stappen die nodig zijn om het DNA in een monster te isoleren voordat PCR kan worden uitgevoerd.",
+      "Een co-factor die nodig is voor de takpolymerase om te functioneren."
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is de Cyfrifo 'R Rhan Fwyaf o'r Gwaith?",
+    "antwoorden": [
+      "Leden verplicht zijn om de meerderheid van het werk te verrichten.",
+      "Leden verantwoordelijk zijn voor het maken van een nauwkeurige verantwoording van de meeste werkzaamheden.",
+      "Leden moeten samenwerken om een doel te bereiken.",
+      "Leden moeten frequent samenkomen om de taken te bespreken, plan te maken en te beoordelen of het werk volgens plan verloopt."
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Wat is de Cyfrifo 'Rhan Fwyaf o'r Gwaith?",
+    "antwoorden": [
+      "Leden verplicht zijn om de meerderheid van het werk te verrichten.",
+      "Leden verantwoordelijk zijn voor het maken van een nauwkeurige verantwoording van de meeste werkzaamheden.",
+      "Leden moeten samenwerken om een doel te bereiken.",
+      "Leden moeten frequent samenkomen om de taken te bespreken, plan te maken en te beoordelen of het werk volgens plan verloopt."
+    ]
+  },
+  {
+    "antwoordIndex": 2,
+    "vraag": "Wat is Cynghrodau 'n Dod i 'r Llwybrau?",
+    "antwoorden": [
+      "Leden moeten samenwerken om een doel te bereiken.",
+      "Leden verplicht zijn om de meerderheid van het werk te verrichten.",
+      "Leden moeten frequent samenkomen om de taken te bespreken, plan te maken en te beoordelen of het werk volgens plan verloopt.",
+      "Leden verantwoordelijk zijn voor het maken van een nauwkeurige verantwoording van de meeste werkzaamheden."
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is de Cyfrifo 'Rhan Fwyaf o'r Gwaith?",
+    "antwoorden": [
+      "Leden verplicht zijn om de meerderheid van het werk te verrichten.",
+      "Leden verantwoordelijk zijn voor het maken van een nauwkeurige verantwoording van de meeste werkzaamheden.",
+      "Leden moeten samenwerken om een doel te bereiken.",
+      "Leden moeten frequent samenkomen om de taken te bespreken, plan te maken en te beoordelen of het werk volgens plan verloopt."
+    ]
+  },
+  {
+    "antwoordIndex": 1,
+    "vraag": "Wat is de Ystod yr Amser?",
+    "antwoorden": [
+      "Leden moeten samenwerken om een doel te bereiken.",
+      "Leden moeten frequent samenkomen om de taken te bespreken, plan te maken en te beoordelen of het werk volgens plan verloopt.",
+      "Leden verplicht zijn om de meerderheid van het werk te verrichten.",
+      "Leden verantwoordelijk zijn voor het maken van een nauwkeurige verantwoording van de meeste werkzaamheden."
+    ]
+  },
+  {
+    "antwoordIndex": 0,
+    "vraag": "Wat is de functie van dNTP 's?",
+    "antwoorden": [
+      "De nucleotiden die worden toegevoegd om ingebouwd te worden.",
+      "De primers die alleen maar dat stuk DNA binden.",
+      "De stoffen die worden verhit en afgekoeld met een thermocyclus om de DNA-replicatie te stimuleren.",
+      "De stoffen die nodig zijn om DNA-monsters te vermenigvuldigen."
+    ]
+  },
+  {
+    "antwoordIndex": 3,
+    "vraag": "Wat is de functie van primers?",
+    "antwoorden": [
+      "De nucleotiden die worden toegevoegd om ingebouwd te worden.",
+      "De primers die alleen maar dat stuk DNA binden.",
+      "De stoffen die worden verhit en afgekoeld met een thermocyclus om de DNA-replicatie te stimuleren.",
+      "De stoffen die nodig zijn om DNA-monsters te vermenigvuldigen."
+    ]
+  }
+]
